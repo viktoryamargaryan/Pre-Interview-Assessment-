@@ -56,11 +56,10 @@ Models were evaluated on an 80/20 train-test split (`random_state=42`):
 
 ## Note on Notebook Outputs
 
-> **Notice:** Inline cell outputs and interactive plots are cleared in the tracked `.ipynb` file to keep the repository lightweight and version-control friendly.
-
 To generate and view the visualizations, confusion matrices, and metrics:
 1. **Google Colab / Kaggle**: Upload `Pre-Interview Assessment.ipynb` and `logatta.csv` directly to Colab or run it in a Kaggle Notebook environment.
 2. **Local Execution**: Follow the quickstart guide below to execute all cells locally.
+3. **For visualizations**: You can view the screenshots uploaded.
 
 ---
 
